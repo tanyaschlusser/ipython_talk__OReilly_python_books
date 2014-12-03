@@ -1,0 +1,138 @@
+{"name":"Python books", "children": [
+
+  {"name":"Pure programming",
+  "children": [
+    {"name":"Beginning",
+     "children": [
+{"name": "Beginning Programming with Python For Dummies"},
+{"name": "Beginning Python"},
+{"name": "Fluent Python"},
+{"name": "Getting Started with Pyparsing"},
+{"name": "Head First Python"},
+{"name": "Instant SymPy Starter"},
+{"name": "Introducing Python"},
+{"name": "Learning IPython for Interactive Computing and Data Visualization"},
+{"name": "Learning Python Design Patterns"},
+{"name": "Learning Python, 2nd Edition"},
+{"name": "Learning Python, 3rd Edition"},
+{"name": "Learning Python, 5th Edition"},
+{"name": "Making Use of Python"},
+{"name": "Programming Python, 3rd Edition"},
+{"name": "Programming Python, 4th Edition"},
+{"name": "Python"},
+{"name": "Python & XML"},
+{"name": "Python Crash Course"},
+{"name": "Python For Dummies"},
+{"name": "Python for Kids"},
+{"name": "Python for Secret Agents"},
+{"name": "Python Playground"},
+{"name": "Python Programming On Win32"},
+{"name": "Python Tools for Visual Studio"},
+{"name": "Violent Python"}
+      ]},
+    {"name":"Advanced",
+     "children": [
+{"name": "Think Complexity"},
+{"name": "Test-Driven Development with Python"},
+{"name": "Python Testing Cookbook"},
+{"name": "Python Testing"},
+{"name": "Python Standard Library"},
+{"name": "Python High Performance Programming"},
+{"name": "Python 3 Object Oriented Programming"},
+{"name": "Professional Python Frameworks"},
+{"name": "Professional IronPython"},
+{"name": "Practical Programming, 2nd Edition"},
+{"name": "Parallel Programming with Python"},
+{"name": "Mastering Python Regular Expressions"},
+{"name": "Mastering Object-oriented Python"},
+{"name": "High Performance Python"},
+{"name": "Expert Python Programming"},
+{"name": "Cython"}
+      ]},
+    {"name":"Concise",
+     "children": [
+{"name": "Python in a Nutshell, 2nd Edition"},
+{"name": "Python Pocket Reference, 3rd Edition"},
+{"name": "Python Pocket Reference, 5th Edition"}
+      ]}
+  ]},
+  {"name":"Games / Web",
+  "children": [
+    {"name":"Visualization",
+     "children": [
+{"name": "FreeCAD [How-to]"},
+{"name": "OpenCV Computer Vision with Python"},
+{"name": "Practical Maya Programming with Python"},
+{"name": "Programming Computer Vision with Python"},
+{"name": "Python 2.6 Graphics Cookbook"}
+      ]},
+    {"name":"Frameworks",
+     "children": [
+{"name": "Django Essentials"},
+{"name": "Flask Web Development"},
+{"name": "Grok 1.0 Web Development"},
+{"name": "Instant Django 1.5 Application Development Starter"},
+{"name": "Instant Flask Web Development"},
+{"name": "Instant Pygame for Python Game Development How-to"},
+{"name": "Kivy: Interactive Applications in Python"},
+{"name": "Lightweight Django"},
+{"name": "Next-Generation Web Frameworks in Python"},
+{"name": "PySide GUI Application Development"},
+{"name": "Python 3 Web Development"},
+{"name": "Python Multimedia"},
+{"name": "Python Network Programming Cookbook"},
+{"name": "Spring Python 1.1"},
+{"name": "Tkinter GUI Application Development HOTSHOT"},
+{"name": "Twisted Network Programming Essentials, 2nd Edition"},
+{"name": "web2py Application Development Cookbook"},
+{"name": "wxPython 2.8 Application Development Cookbook"}
+      ]},
+    {"name":"Data",
+     "children": [
+{"name": "Python and AWS Cookbook"},
+{"name": "MySQL for Python"},
+{"name": "MongoDB and Python"},
+{"name": "Essential SQLAlchemy"}
+      ]}
+  ]},
+  {"name":"Scientific / Hobby",
+  "children": [
+    {"name":"Function",
+     "children": [
+{"name": "Learning Python Data Visualization"},
+{"name": "Learning scikit-learn: Machine Learning in Python"},
+{"name": "Matplotlib for Python Developers"},
+{"name": "Natural Language Processing with Python"},
+{"name": "NumPy 1.5"},
+{"name": "NumPy Beginner's Guide, 2nd Edition"},
+{"name": "NumPy Cookbook"},
+{"name": "Python 3 Text Processing with NLTK 3 Cookbook"},
+{"name": "Python Data Analysis"},
+{"name": "Python Data Visualization Cookbook"},
+{"name": "Python for Data Analysis"},
+{"name": "Python Text Processing with NLTK 2.0 Cookbook"},
+{"name": "Sage"}
+      ]},
+    {"name":"Hardware",
+     "children": [
+{"name": "Raspberry Pi Cookbook for Python Programmers"},
+{"name": "Learning Python with Raspberry Pi"},
+{"name": "CherryPy Essentials"}
+      ]},
+    {"name":"Applications",
+     "children": [
+{"name": "Building Machine Learning Systems with Python"},
+{"name": "Building Probabilistic Graphical Models with Python"},
+{"name": "Learning Geospatial Analysis with Python"},
+{"name": "Mining the Social Web, 2nd Edition"},
+{"name": "Python 2.6 Text Processing Beginner's Guide"},
+{"name": "Python for Finance"},
+{"name": "Python Geospatial Development"},
+{"name": "Python Geospatial Development, 2nd Edition"},
+{"name": "Think Stats, 2nd Edition"},
+{"name": "Black Hat Python"},
+{"name": "Gray Hat Python"},
+{"name": "Python Forensics"}
+      ]}
+  ]}
+]}
