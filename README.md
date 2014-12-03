@@ -5,7 +5,7 @@ O'Reilly Python possibilities lightning talk
 How to view this online
 -----------------------
 
-<a href="http://nbviewer.ipython.org/github/tanyaschlusser/ipython_talk__OReilly_python_books//blob/master/OReilly_python_books.ipynb">Click here</a>
+<a href="http://nbviewer.ipython.org/github/tanyaschlusser/ipython_talk__OReilly_python_books/blob/master/OReilly_python_books.ipynb">Click here</a>
 
 How to install
 --------------
