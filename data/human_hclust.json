@@ -4,6 +4,7 @@
   "children": [
     {"name":"Beginning",
      "children": [
+{"name": "Automate the Boring Stuff with Python"},
 {"name": "Beginning Programming with Python For Dummies"},
 {"name": "Beginning Python"},
 {"name": "Fluent Python"},
@@ -32,6 +33,7 @@
       ]},
     {"name":"Advanced",
      "children": [
+{"name": "Think Python"},
 {"name": "Think Complexity"},
 {"name": "Test-Driven Development with Python"},
 {"name": "Python Testing Cookbook"},
@@ -51,6 +53,7 @@
       ]},
     {"name":"Concise",
      "children": [
+{"name": "Python Cookbook, 3rd Edition"},
 {"name": "Python in a Nutshell, 2nd Edition"},
 {"name": "Python Pocket Reference, 3rd Edition"},
 {"name": "Python Pocket Reference, 5th Edition"}
@@ -60,6 +63,7 @@
   "children": [
     {"name":"Visualization",
      "children": [
+{"name": "Blender 2.49 Scripting"},
 {"name": "FreeCAD [How-to]"},
 {"name": "OpenCV Computer Vision with Python"},
 {"name": "Practical Maya Programming with Python"},
@@ -68,6 +72,7 @@
       ]},
     {"name":"Frameworks",
      "children": [
+{"name": "Creating Apps in Kivy"},
 {"name": "Django Essentials"},
 {"name": "Flask Web Development"},
 {"name": "Grok 1.0 Web Development"},
@@ -89,6 +94,7 @@
       ]},
     {"name":"Data",
      "children": [
+{"name": "Python and HDF5"},
 {"name": "Python and AWS Cookbook"},
 {"name": "MySQL for Python"},
 {"name": "MongoDB and Python"},
@@ -99,6 +105,7 @@
   "children": [
     {"name":"Function",
      "children": [
+{"name": "Learning NumPy Array"},
 {"name": "Learning Python Data Visualization"},
 {"name": "Learning scikit-learn: Machine Learning in Python"},
 {"name": "Matplotlib for Python Developers"},
@@ -115,12 +122,14 @@
       ]},
     {"name":"Hardware",
      "children": [
+{"name": "Real World Instrumentation with Python"},
 {"name": "Raspberry Pi Cookbook for Python Programmers"},
 {"name": "Learning Python with Raspberry Pi"},
 {"name": "CherryPy Essentials"}
       ]},
     {"name":"Applications",
      "children": [
+{"name": "Bioinformatics Programming Using Python"},
 {"name": "Building Machine Learning Systems with Python"},
 {"name": "Building Probabilistic Graphical Models with Python"},
 {"name": "Learning Geospatial Analysis with Python"},
