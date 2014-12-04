@@ -1,7 +1,3 @@
-O'Reilly Python possibilities lightning talk
-============================================
-
-
 How to view this online
 -----------------------
 
@@ -9,9 +5,6 @@ How to view this online
 
 How to install
 --------------
-
-You need iGraph, which relies on a C library that must be compiled.
-Images are available <a href="https://pypi.python.org/pypi/python-igraph">here</a>.
 
 Run this in a virtual environment to temporarily
 load the dependencies without having to make them
