@@ -96,7 +96,9 @@ function update(source) {
   nodeEnter.append("text")
       .attr("dy", 3.5)
       .attr("dx", 5.5)
-      .text(function(d) { return ( d.name); });
+      .text(function(d) {
+          return d.name + (d.n_descendants ? " (" + d.n_descendants + " titles)" : "");
+      });
 
   // Transition nodes to their new position.
   nodeEnter.transition()
@@ -174,20 +176,33 @@ function color(d) {
 
 
 
-  root = %s;  // Python to add the JSON in string formatting
-  root.x0 = 0;
-  root.y0 = 0;
+root = %s;  // Python to add the JSON in string formatting
+root.x0 = 0;
+root.y0 = 0;
 
-  function toggleAll(d) {
-    if (d.children) {
-      d.children.forEach(toggleAll);
-      toggle(d);
-    }
+function get_n_descendants(d) {
+  if (d.children) {
+    d.n_descendants = d.children.reduce(
+        function(pv, cv) {return pv + get_n_descendants(cv); },0);
+  return d.n_descendants;
+  } else {
+    return 1;
   }
+}
+
+get_n_descendants(root);
+
+
+function toggleAll(d) {
+  if (d.children) {
+    d.children.forEach(toggleAll);
+    toggle(d);
+  }
+}
   
-  // Initialize the display to show a few nodes.
-  root.children.forEach(toggleAll);
+// Initialize the display to show a few nodes.
+root.children.forEach(toggleAll);
   
-  update(root);
+update(root);
 
 </script>
