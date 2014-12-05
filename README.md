@@ -1,7 +1,7 @@
 How to view this online
 -----------------------
 
-<a href="http://nbviewer.ipython.org/github/tanyaschlusser/ipython_talk__OReilly_python_books/blob/master/OReilly_python_books.ipynb">Click here</a>
+<a href="http://tanyaschlusser.github.io/OReilly_python_books.slides.html#/">Click here</a>
 
 How to install
 --------------
