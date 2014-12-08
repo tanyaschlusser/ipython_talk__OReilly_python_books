@@ -18,7 +18,6 @@ a permanent addition to your libraries:
 
 Commands:
 
-    # Deal with installing the iGraph C libraries however you choose
     pip install virtualenv
     virtualenv venv  # Create a directory to hold your virtual environment
     source venv/bin/activate  # Add the venv path to your path
