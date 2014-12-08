@@ -6,6 +6,10 @@ This is Michael Bostock's collapsible tree -- with my data
     as part of his d3.js project
     https://github.com/mbostock/d3/wiki/Gallery
 */
+
+require.config({paths: {d3: "http://d3js.org/d3.v3.min"}});
+require(["d3"], function(d3) {
+
 var style = document.getElementsByTagName('style')[0];
 if ( style == null ) {
   style = document.createElement('style');
@@ -205,4 +209,5 @@ root.children.forEach(toggleAll);
   
 update(root);
 
+});
 </script>
